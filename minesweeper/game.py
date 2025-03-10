@@ -5,4 +5,5 @@ CLI Minesweeper Game
 import tkinter as tk
 
 
-board = [0]
+# Board - 2D array of cells
+# Cell - 2 attributes : number and 
